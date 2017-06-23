@@ -4,10 +4,7 @@
     <string name="app_name_details">Movie Manager > Details</string>
     <string name="app_name_watchlist">Movie Manager > Watch list</string>
     <string name="action_settings">Settings</string>
-    <string name="api_key">71f5a6a95bfd3ddfb7af158db41e263e</string>
-    <string name="search_endpoint">https://api.themoviedb.org/3/search/movie</string>
-    <string name="details_endpoint">https://api.themoviedb.org/3/movie</string>
-    <string name="poster_endpoint">https://image.tmdb.org/t/p/w300</string>
+
     <string name="movie_title">Title:</string>
     <string name="movie_release_date">Release Date</string>
     <string name="movie_votes">Votes</string>
