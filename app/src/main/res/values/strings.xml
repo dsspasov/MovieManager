@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Manager</string>
+    <string name="app_name_main">Movie Manager</string>
+    <string name="app_name_details">Movie Manager > Details</string>
+    <string name="app_name_watchlist">Movie Manager > Watch list</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">71f5a6a95bfd3ddfb7af158db41e263e</string>
+    <string name="search_endpoint">https://api.themoviedb.org/3/search/movie</string>
+    <string name="details_endpoint">https://api.themoviedb.org/3/movie</string>
+    <string name="poster_endpoint">https://image.tmdb.org/t/p/w300</string>
+    <string name="movie_title">Title:</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_votes">Votes</string>
+    <string name="movie_average">Average</string>
+    <string name="movie_popularity">Popularity:</string>
+    <string name="movie_runtime">Runtime:</string>
+    <string name="movie_budget">Budget:</string>
+    <string name="movie_overview">Overview:</string>
+    <string name="movie_genres">Genres:</string>
+
+    <string name="message_movie_added">This movie was added to your collection!</string>
+
+    <string name="error_missing_details">Error! Missing details!</string>
+    <string name="error_unknow">Error! Something went wrong!</string>
+    <string name="error_missing_data">Error! Could not find anything!</string>
+</resources>
